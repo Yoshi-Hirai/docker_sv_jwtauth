@@ -1,0 +1,13 @@
+# Go build artifacts
+app
+
+# 環境変数ファイル
+.env
+
+# Editor系
+.vscode/
+.idea/
+
+# OSゴミ
+.DS_Store
+Thumbs.db
